@@ -1,0 +1,21 @@
+body {
+    background-color: lavender;
+  }
+  h1 {
+    color: purple;
+    font-family: Arial;
+    text-align: center;
+  }
+  h2{
+    color: blueviolet;
+    font-family: Arial;
+    text-align: center;
+  }
+  h3{
+    color: rgb(85, 27, 138);
+    font-family: Arial;
+  }
+  p {
+    color: black;
+    font-family: Arial;
+  }
